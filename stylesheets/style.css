@@ -51,7 +51,7 @@ body {
 .slide {
   padding-top: 150px;
   padding-bottom: 100px;
-  background-image: url("/images/cakes.jpg");
+  background-image: url("images/cakes.jpg");
 }
 
 /* line 44, ../sass/style.scss */
